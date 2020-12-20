@@ -17,12 +17,9 @@ public class Jegyrendeles extends javax.swing.JFrame {
      * Creates new form Jegyrendeles
      */
     public Jegyrendeles() {
-        
-        
+
         initComponents();
-        
-        
-        
+
     }
 
     /**
